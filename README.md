@@ -1,17 +1,17 @@
-## Heart-Disease-Classifier
+# Heart-Disease-Classifier
 *Exploring the use of different ML classifier algorithms in identifying Heart Disease based on patient information*
 Dan Krasnonosenkikh
 
-# Purpose / Background
+## Purpose / Background
 
-# Algorithms Used
+## Algorithms Used
 
-# Dataset
+## Dataset
 
 https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
-# Process Overview
+## Process Overview
 
-# Results Table
+## Results Table
 
-# Computer Specifics
+## Computer Specifics
