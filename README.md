@@ -8,7 +8,7 @@ Dan Krasnonosenkikh
 
 ## Dataset
 
-https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+[Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)
 
 ## Process Overview
 
